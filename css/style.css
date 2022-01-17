@@ -1,3 +1,4 @@
+@import url(media-queries.css);
 :root {
   /* Colors */
   --primary-color: #cefe1a;
@@ -20,6 +21,8 @@ li,
 ul,
 ol {
   list-style: none;
+  padding-inline-start: 0px;
+
 }
 
 /* Section Style */
@@ -286,37 +289,13 @@ main::before {
     margin-top: 46px;
 }
 
-.item-portafolio{
+.item-portafolio img{
     width: 400px;
     height:273px;
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    border: 3px solid var(--primary-color);
-    
-}
-.item-portafolio:hover{
     border: 3px solid var(--light-color);
     
 }
-.item-portafolio:nth-child(1){
-    background-image: url(/Assets/png/projectsImages/1.png);
-}
-.item-portafolio:nth-child(2){
-    background-image: url(/Assets/png/projectsImages/2.png);
-}
-.item-portafolio:nth-child(3){
-    background-image: url(/Assets/png/projectsImages/3.png);
-}
-.item-portafolio:nth-child(4){
-    background-image: url(/Assets/png/projectsImages/4.png);
-}
-.item-portafolio:nth-child(5){
-    background-image: url(/Assets/png/projectsImages/5.png);
-}
-.item-portafolio:nth-child(6){
-    background-image: url(/Assets/png/projectsImages/6.png);
-}
+
 
 /* ------Final portafolio------ */
 

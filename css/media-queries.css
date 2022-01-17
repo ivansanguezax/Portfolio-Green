@@ -1,0 +1,66 @@
+@media screen and (max-width:1260px) {
+    .about-description{
+        margin-right: 30px;
+        width:400px;
+    }
+    .about-description h1{
+        text-align:initial;
+    }
+    iframe{
+        width: 450px !important;
+        height: 315px !important;
+    }
+    .skills-container{
+        grid-column-gap: 50px;
+    }
+    .item h3{
+        font-size:14px;
+    }
+    .item-portafolio img{
+        width: 300px !important;
+        height: auto !important;
+        
+    }
+}
+@media screen and (max-width:1024px) {
+    .main-photo img{
+        width:150px;
+        height: 150px;
+    }
+    .main-description h3, .main-description h2{
+        font-size: 30px;
+    }
+    .main-description h1{
+        font-size:40px;
+    }
+    .about-description h1{
+        font-size:25px;
+    }
+    .about-description p{
+        font-size:15px;
+    }
+    .about-description h5{
+        font-size:12px;
+        margin:0px;
+    }
+    iframe{
+        width: 350px !important;
+        height: 315px !important;
+    }
+    .skills-container{
+        grid-column-gap: 50px ;
+    }
+    .item h3{
+        font-size:10px;
+    }
+    .item-portafolio img{
+        width: 200px !important;
+    }
+    .contacto-botones i{
+        font-size:30px;
+    }
+    .contacto-botones a{
+        width: 150px !important;
+        padding: 20px 0px 10px;
+    }
+}
