@@ -269,16 +269,15 @@ main::before {
     text-align: center;
     margin-right: 80px;
     padding-bottom: 4px;
-    border-bottom: 2px solid var(--primary-color);
     text-align: center;
+}
+.active{
+    border-bottom: 2px solid var(--primary-color);
 }
 .portafolio-menu a:nth-child(3){
     margin-right: 0px;
-    border: none;
 }
-.portafolio-menu a:nth-child(2){
-    border: none;
-}
+
 
 .portafolio-proyectos{
     display: grid;
@@ -349,3 +348,4 @@ footer h1{
 footer a{
     color: var(--primary-color);
 }
+
