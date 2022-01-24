@@ -90,6 +90,10 @@ header {
 .header-menu a:hover {
   color: var(--primary-color);
 }
+.close, .hamburger{
+  display: none;
+}
+
 
 /* ------Final Header------ */
 
