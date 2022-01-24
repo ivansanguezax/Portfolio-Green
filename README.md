@@ -1,9 +1,9 @@
-# Hello Twitch Landing 
+# Portfolio - Ivan Sangueza
 
 **`¡HOLA MUNDO! 👋🏼`**
              
 
-![twitch-landing](https://github.com/ivansanguezax/HelloTwitch/blob/a3d15e7659210cfd94e46f32670f5500477c3ae2/assets/img/twitch-landing.jpg "Hello Twitch Landing ")
+![Portafolio - Cover](https://github.com/ivansanguezax/Portfolio-Green/blob/b0101ecb1e5be259290cbd15d678f5d897e5b155/Assets/jpg/Portafolio-cover.jpg "Portfolio-Cover ")
 
 Si te interesa mi contenido **`SUSCRÍBETE Y ACTIVA LA CAMPANA 👆🏼`** [Puedes hacerlo aquí 👈🏼](https://www.youtube.com/channel/UCtjxVKtJvvU71n0_g6eisvA)
 
