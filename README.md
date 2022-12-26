@@ -1,29 +1,21 @@
-# Portfolio - Ivan Sangueza
+# Portafolio Green
 
-**`¡HOLA MUNDO! 👋🏼`**
+En este repositorio veremos como realizar un Portafolio Básico realizado con HTML CSS y JavaScript. El diseño es responsivo y tambien util para aprender principios de la web.
              
 
 ![Portafolio - Cover](https://github.com/ivansanguezax/Portfolio-Green/blob/b0101ecb1e5be259290cbd15d678f5d897e5b155/Assets/jpg/Portafolio-cover.jpg "Portfolio-Cover ")
 
-## Descripción
+## Herramientas que usaremos 🛠️ 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 
-En este repositorio veremos como realizar un Portafolio Básico realizado con HTML CSS y JavaScript. El diseño es responsivo y tambien util para aprender principios de la web.
-
-## Requisitos
-* HTML 5
-* CSS 3
-* JavaScript
-
-## Figma
-[Portfolio - Ivan Sangueza](https://www.figma.com/file/KEvaEaJ6Aziij4dLqFAZOl/Portafolio-Elemental?node-id=1%3A2 "Portfolio - Ivan Sangueza")
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ivansanguezax) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ivansanguezax) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ivansanguezax) 
 
 ## ¿Te gusta el contenido?
-
-Si te interesa mi contenido **`SUSCRÍBETE Y ACTIVA LA CAMPANA 👆🏼`** [Puedes hacerlo aquí 👈🏼](https://www.youtube.com/channel/UCtjxVKtJvvU71n0_g6eisvA)
 
 Déjame en comentarios tu opinión. 
 Si te gusta el contenido, **comparte** y **Dale a la estrellita** ⭐️
 
-**¡GRACIAS!**
-### Autor
-*Ivan Sangueza. © 2021*
+---
+⌨️ con ❤️ por [ivansanguezax](https://github.com/ivansanguezax) 😊
+
